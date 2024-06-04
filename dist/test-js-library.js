@@ -1,1 +1,3 @@
-export * from "../src/modulo1.js";
+export function saluda() {
+  console.log('Hola desde test-js-library');
+}
