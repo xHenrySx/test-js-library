@@ -1,5 +1,5 @@
 {
   "name": "test-js-library",
   "version": "1.0.0",
-  "main": "dist/atlas-library.min.js"
+  "main": "dist/test-js-library.min.js"
 }
